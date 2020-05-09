@@ -9,4 +9,6 @@ http://www.omdbapi.com/
 
 
 Here is first screen of app.
+
+
 ![movie_name](https://github.com/vivekvaghasiya022/MovieInfo/blob/master/landing_page.png)
