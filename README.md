@@ -15,12 +15,8 @@ Here is first screen of app.
 
 
 Movie Info page after searching movie by movie name and movie year.
-
-
 ![movie_basic_info](https://github.com/vivekvaghasiya022/MovieInfo/blob/master/basic_info.png)
 
 
 More information of movie.
-
-
 ![movie_detail_in_deep](https://github.com/vivekvaghasiya022/MovieInfo/blob/master/details_in_deep.png)
